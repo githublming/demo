@@ -1,0 +1,8 @@
+{
+    "name": "githublming/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
